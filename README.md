@@ -5,6 +5,6 @@
 
 **Scrum Master**: TBD
 
-**Code Moneys**: Holam & Jimmy
+**Code Monkeys**: Holam & Jimmy
 
-**Design Moneys**: TBD 
+**Design Monkeys**: TBD 
