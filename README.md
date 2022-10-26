@@ -9,4 +9,4 @@
 
 **Design Monkeys**: TBD 
 
-**Voice Actors**: TBD 
+**Voice Actors**: Yousuf, Yousuf, and Yousuf
